@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice/cidade/cidade.iml" filepath="$PROJECT_DIR$/microservice/cidade/cidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cidade_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cidade_main.iml" group="cidade" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cidade_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cidade_test.iml" group="cidade" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/eurekanamingserver/eurekanamingserver.iml" filepath="$PROJECT_DIR$/microservice/eurekanamingserver/eurekanamingserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurekanamingserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eurekanamingserver_main.iml" group="eurekanamingserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurekanamingserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eurekanamingserver_test.iml" group="eurekanamingserver" />
+    </modules>
+  </component>
+</project>
